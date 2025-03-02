@@ -4,7 +4,7 @@ date: 2024-06-20T17:43:19.000Z
 author: Vahe Aslanyan
 authorURL: https://www.freecodecamp.org/news/author/vahe/
 originalURL: https://www.freecodecamp.org/news/generative-ai-handbook/
-translator: ""
+translator: "Qingfeng Huang"
 reviewer: ""
 ---
 
